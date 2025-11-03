@@ -1,3 +1,3 @@
 module github.com/Pawa-w/hello-golang
 
-go 1.24.2
+go 1.24
